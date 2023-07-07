@@ -1,6 +1,4 @@
-<p align="center">
-    <a  href="https://ibb.co/qd9nwhL"><img  src="https://i.ibb.co/t4ch5nw/1.png" alt="1" border="0"></a>
-</p>
+
 <p align="center">
 <br>
     <img src="https://img.shields.io/badge/Author-Rafael Guedes-magenta?style=flat-square">
