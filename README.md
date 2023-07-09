@@ -1,27 +1,20 @@
+# NumeroDasorte
 
-<p align="center">
-<br>
-    <img src="https://img.shields.io/badge/Author-Rafael Guedes-magenta?style=flat-square">
-    <img src="https://img.shields.io/badge/Open%20Source-yes-orange?style=flat-square">
-    <img src="https://img.shields.io/badge/Made%20In-Brazil-green?style=flat-square">
-    <img src="https://img.shields.io/badge/Written%20In-Python3-blue?style=flat-square">
-</p>
+Este é um programa que gera números da sorte de forma aleatória e exibe na tela. Ele também utiliza uma API para obter o último resultado da Mega-Sena.
 
-### [+] Description
-Uma CLI criada em Python , que consome o ultimo resultado  da Mega-Sena logo após e gerado um número totalmente aleatório onde não foi feito logica nem média usando resultados passados para gerar.. mais quem sabe a sorte não está ai nessa aleatoriedade né =).  
+## Pré-requisitos
 
-### [+] Installation
- - `clone do repositório `
- - `baixe as bibliotecas`
- - `pip install requests e pip install colorama`
- - `abrir o terminal e executar o arquivo main.py`
-
-### [+] Usage
-`Somente aguardar seu número ser gerado após execução do arquivo`
-
-### [+] Screenshot
-<p align="center">
-    <a  href="https://imgbb.com/"><img src="https://i.ibb.co/1vY1QQ5/2.png" alt="2" border="0"></a>
-</p>
+Certifique-se de ter as seguintes bibliotecas instaladas antes de executar o código:
+- `colorama`
+- `requests`
 
 
+Você pode instalar essas bibliotecas usando o pip:
+
+```
+pip install random colorama requests
+```
+
+## Contribuição
+
+Se você quiser contribuir com este projeto, fique à vontade para fazer um fork e enviar uma pull request.
